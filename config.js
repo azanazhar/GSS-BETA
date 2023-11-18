@@ -3,16 +3,16 @@ const chalk = require("chalk");
 
 
 //
-global.autoread = true;
+global.autoread = false;
 global.available = false;
 global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.autoBio = true;
-global.antiCall= true;
+global.antiCall= false;
 
-global.OwnerNumber = ["919938770375"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["923328278470"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
 global.ownertag = ["919928770375"];
-global.OwnerName = "Goutam";
+global.OwnerName = "AZAN-AZHAR";
 global.BotName = "GSS-BETA";
 global.author = "MatrixCoder";                               //Do not change.
 global.BotSourceCode = "https://github.com/MatrixCoder0101/GSS-Botwa"; //Do not change.
